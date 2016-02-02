@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  Flashlight
+//  FlashLight2.0
 //
-//  Created by Caleb Hicks on 9/23/15.
-//  Copyright © 2015 DevMountain. All rights reserved.
+//  Created by Jake Hardy on 2/1/16.
+//  Copyright © 2016 Jake Hardy. All rights reserved.
 //
 
 import UIKit
